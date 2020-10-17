@@ -30,3 +30,18 @@ MUF的最大供应量1,000,000。永不增发
 
 对于社区所产出的MUF令牌数量，运营团队获得铸造该数量的10％MUF到创世地址，将用于项目生态系统和未来开发，营销，审计等。且每次动用团队会进行公告！
 
+8.pool分布
+
+pool V1 发布4个lp矿池总量40000枚分4天挖完。
+
+ceb/trx LP  10000枚   合约地址TJTnuNMYrferbroJ2W4RzBubthrmc1m9JE
+
+dick/trx  LP  10000枚   合约地址TDbxCXvh9uAWvqeR7BqQuavcsmn5G44DP6
+
+mrk/trx   LP  10000枚   合约地址TVTowKKhGyKCsosBJFbgbWUxKC3MYqRPmq
+
+yutu/trx  LP  10000枚   合约地址TGMNEtEzZGhiCuhdEe8wDzj9MK6iG5AwEy
+
+pool V2 发布1个矿池 总量900000枚 分40天挖完
+
+剩余总量60000枚分配将在矿池开启10天后由muf持币者投票决定！
